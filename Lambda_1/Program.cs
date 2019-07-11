@@ -91,8 +91,7 @@ namespace Lambda_1
 
             foreach (Person p in people)
                 Console.WriteLine($"{p.Name} - {p.Age}");
-
-
+            
         }
     }
 }
